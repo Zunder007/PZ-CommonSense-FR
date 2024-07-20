@@ -1,0 +1,7 @@
+Recipes_FR = {
+    Recipe_Empty-Bag = "Verser par terre",
+    Recipe_Empty-Sack = "Verser par terre",
+
+	Recipe_Create-Sheets = "Créer un drap",
+	Recipe_Make-Sheets = "Fabriquer un drap",
+}
